@@ -1,8 +1,8 @@
 # Weather Info app
-this app provies us with some basic data of weather according to the location or places search.
+This app provies us with some basic data of weather according to the location or places search.
 ____________________________________________
 
-** Used Tech's ** 
+## Technologies Used :
 * ReactJS
 * JS
 * API (to gather weather information using weather API's)
