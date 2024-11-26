@@ -1,3 +1,13 @@
+# Weather Info app
+this app provies us with some basic data of weather according to the location or places search.
+
+*** Used Tech's ***
+* ReactJS
+* JS
+* API (to gather weather information using weather API's)
+  
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
