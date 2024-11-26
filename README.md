@@ -1,5 +1,7 @@
 # Weather Info app
 This app provies us with some basic data of weather according to the location or places search.
+
+[weather app link](https://weatherinfoapp-h8f0.onrender.com/)
 ____________________________________________
 
 ## Technologies Used 
