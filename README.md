@@ -2,8 +2,7 @@
 this app provies us with some basic data of weather according to the location or places search.
 ____________________________________________
 
-
-*** Used Tech's ***
+** Used Tech's ** 
 * ReactJS
 * JS
 * API (to gather weather information using weather API's)
