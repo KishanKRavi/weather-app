@@ -1,5 +1,7 @@
 # Weather Info app
 this app provies us with some basic data of weather according to the location or places search.
+____________________________________________
+
 
 *** Used Tech's ***
 * ReactJS
